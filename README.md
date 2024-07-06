@@ -1,5 +1,5 @@
 # CODTECH-Task1
-# eCommerce Project
+# ECommerce Project
 
 ## Overview
 
